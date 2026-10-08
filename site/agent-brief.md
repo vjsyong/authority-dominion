@@ -1,6 +1,6 @@
 # Agent brief: build under the Dominion Interface System authority
 
-Authority: `packs/dominion` v0.2.0 (format 0.1). An austere civic interface system derived from the Government of Canada FIP standard and the live Canada.ca web layer for the Design Authority synthesis experiment. Bilingual, structured, calm; no government marks reproduced.
+Authority repo: `authority-dominion` (v0.2.0, format 0.1). An austere civic interface system derived from the Government of Canada FIP standard and the live Canada.ca web layer for the Design Authority synthesis experiment. Bilingual, structured, calm; no government marks reproduced.
 
 Reference build (what "look like this" means for this authority):
   https://designauthority.seanyong.xyz/authorities/dominion/site/
@@ -22,7 +22,7 @@ Build an interface that conforms to THIS authority alone.
    python3 tools/da.py --pack packs/dominion resolve "primary button" --json
 3. Inspect every record before adopting it:
    python3 tools/da.py --pack packs/dominion inspect <id>
-4. Adopt only records from packs/dominion. Never borrow another authority's
+4. Adopt only records shipped by this authority. Never borrow another's
    components, values or classes.
 5. When the authority is silent: build from the nearest recorded pieces, keep
    the improvisation visible (an HTML comment plus data-improv="<reason>"),
