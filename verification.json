@@ -1,5 +1,5 @@
 {
- "contract_version": "0.1",
+ "contract_version": "0.2",
  "authority": "dominion",
  "pack_version": "dominion 0.2.0",
  "scope_note": "Verification contract for the dominion authority (verification experiment, 2026-10-08). The instrument (body.marks-on, [data-mark], .marks-toggle) is review tooling and excluded from palette/shape scans.",
@@ -562,6 +562,24 @@
      "value": 1
     }
    ]
+  },
+  {
+   "id": "dominion/nav-link-ink",
+   "item": "component/nav",
+   "title": "Nav links render black, never the UA default link colour",
+   "classification": "MECHANICALLY_VERIFIABLE",
+   "severity": "error",
+   "mode": "COMPUTED_STYLE",
+   "selector": ".nav-link",
+   "assertions": [
+    {
+     "property": "color",
+     "relation": "color_is",
+     "value": "#000000"
+    }
+   ],
+   "missing": "fail",
+   "note": "The nav record's dark links (black; red stays ceremonial). A missing rule leaves the UA default blue/purple - the wink calendar brand-link catch, the same class."
   }
  ]
 }
