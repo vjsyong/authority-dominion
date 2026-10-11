@@ -87,6 +87,12 @@
       "note": "Single-token alias + exact-phrase bonus."
     },
     {
+      "problem": "a toast notification saying logged",
+      "expect": "UNDEFINED",
+      "expect_id": null,
+      "note": "No toast vocabulary was added; the deviation stays visible."
+    },
+    {
       "problem": "bar chart of weekly minutes",
       "expect": "RESOLVED",
       "expect_id": "pattern/plain-chart",
@@ -97,12 +103,6 @@
       "expect": "RESOLVED",
       "expect_id": "pattern/plain-chart",
       "note": "Derived from the proposal's simulated checks."
-    },
-    {
-      "problem": "a toast notification saying logged",
-      "expect": "UNDEFINED",
-      "expect_id": null,
-      "note": "No toast vocabulary was added; the deviation stays visible."
     }
   ]
 }
