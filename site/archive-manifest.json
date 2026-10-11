@@ -4,7 +4,7 @@
   "pack": "authorities/dominion",
   "version": "0.2.0"
  },
- "generated_at": "2026-10-09T14:44:54+00:00",
+ "generated_at": "2026-10-11T09:26:01+00:00",
  "checks": {
   "external_references": 1,
   "css_extracted": true,
@@ -18,7 +18,7 @@
  "files": [
   {
    "path": ".site-state.json",
-   "sha256": "997e6cf8199ca03d5b5aa22d9ad93a0c2a724501e187d074d98e1211c374a648",
+   "sha256": "e01a9f77bf6024f0f344130d404a268c5516400b79000c6b5c65d96e29629367",
    "size": 905,
    "role": "refresh state (pack hash, version, artifact set)"
   },
@@ -42,8 +42,8 @@
   },
   {
    "path": "index.html",
-   "sha256": "67324704f938f635330acfa8eb8dd713675670f7eb60c52f89265d5d10f81672",
-   "size": 38942,
+   "sha256": "964237e4d0c201350bff82a8b611c2bc0a69acd9734b77d860563454491e3cc5",
+   "size": 38943,
    "role": "page"
   },
   {
@@ -54,8 +54,8 @@
   },
   {
    "path": "refresh-log.md",
-   "sha256": "811d497575b720ba6ce1da5a114256cc0b18d5d82354ad4ee16a05da83b78b06",
-   "size": 3198,
+   "sha256": "84b0a1d08556376bd4154114524513442bdc5373e1ba449d1572ef01e31e15e3",
+   "size": 3384,
    "role": "refresh log (generated layers vs pack)"
   },
   {
