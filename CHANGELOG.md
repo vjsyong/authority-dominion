@@ -1,13 +1,13 @@
 # Changelog - Dominion Interface System
 
-## 0.3.0-rc1 - 2026-10-11
+## 0.3.0 - 2026-10-11
 
 - The owner-set transition policies (design-authority D-034) now ship WITH the
   records: four records carry their owner-set policies (plain-chart when_touched; ledger / notice prospective; status review). Consumers' `da reconcile` reads
   them directly.
 - Pack recompiled through the unified compiler; the 2026-10-11 owner rulings
   applied (exceptions ratified, the L-12 route, platform-controls revision).
-- Agent-produced version: rc label per the release policy; promotion is a
+- Finalized by the owner 2026-10-11 (all approved); provenance: rc label per the release policy, promotion is a
   human action.
 
 ## 0.2.0 - 2026-10-08
