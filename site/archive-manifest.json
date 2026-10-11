@@ -2,9 +2,9 @@
  "build": "dominion",
  "authority": {
   "pack": "authorities/dominion",
-  "version": "0.3.0-rc1"
+  "version": "0.3.0"
  },
- "generated_at": "2026-10-11T09:53:07+00:00",
+ "generated_at": "2026-10-11T11:16:47+00:00",
  "checks": {
   "external_references": 1,
   "css_extracted": true,
@@ -18,14 +18,14 @@
  "files": [
   {
    "path": ".site-state.json",
-   "sha256": "7fbb206a622c7e25e8b8caee70a00b03e3ad6cbd8b39f00197472f711ee9fb25",
-   "size": 909,
+   "sha256": "e3c23e3c8b7208eb9525d3b41f6b95c4da57c86a69496dc392c4a35d42aef01c",
+   "size": 905,
    "role": "refresh state (pack hash, version, artifact set)"
   },
   {
    "path": "agent-brief.md",
-   "sha256": "ac544aa0c5442f1a7a83545deac56037299991fd9be307a2d63387e65a9a1bf2",
-   "size": 4550,
+   "sha256": "166edace90484fe752d335e4706ff88d562f6e13cb483b89d97cb0592bd68a75",
+   "size": 4546,
    "role": "asset"
   },
   {
@@ -42,8 +42,8 @@
   },
   {
    "path": "index.html",
-   "sha256": "6a392242186de65bcad5edcb51b8b21eeaaf45fd3f09fd2ec3c5cb80bc7d0db5",
-   "size": 38972,
+   "sha256": "a346831833ee1379028286d9665378cdca5728aa16137bf2c4c130b692fb2091",
+   "size": 38945,
    "role": "page"
   },
   {
@@ -54,8 +54,8 @@
   },
   {
    "path": "refresh-log.md",
-   "sha256": "9b7c3e057df117904aad01e30f5764d5e7c19eb17ba416f4ea80298b56e354b0",
-   "size": 3574,
+   "sha256": "886294dac0c5e3b562354ea23ebe8a78d0940146593b961168a22c96a01390d2",
+   "size": 3764,
    "role": "refresh log (generated layers vs pack)"
   },
   {

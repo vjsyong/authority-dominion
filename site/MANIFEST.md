@@ -1,16 +1,16 @@
 # Archive manifest - dominion
 
-Authority: `authorities/dominion` @ 0.3.0-rc1 - generated 2026-10-11T09:53:07+00:00 UTC
+Authority: `authorities/dominion` @ 0.3.0 - generated 2026-10-11T11:16:47+00:00 UTC
 
 | file | role | sha256 (first 16) | size |
 |---|---|---|---|
-| `.site-state.json` | refresh state (pack hash, version, artifact set) | `7fbb206a622c7e25` | 909 |
-| `agent-brief.md` | asset | `ac544aa0c5442f1a` | 4550 |
+| `.site-state.json` | refresh state (pack hash, version, artifact set) | `e3c23e3c8b7208eb` | 905 |
+| `agent-brief.md` | asset | `166edace90484fe7` | 4546 |
 | `audit.jsonl` | machine-recorded authority call trace | `7d48d3ccc4215654` | 45467 |
 | `brief.md` | build brief | `5dc7fad11d7f981b` | 2223 |
-| `index.html` | page | `6a392242186de65b` | 38972 |
+| `index.html` | page | `a346831833ee1379` | 38945 |
 | `log.md` | build log (agent, 1:1 with audit.jsonl) | `948345edc036543f` | 33797 |
-| `refresh-log.md` | refresh log (generated layers vs pack) | `9b7c3e057df11790` | 3574 |
+| `refresh-log.md` | refresh log (generated layers vs pack) | `886294dac0c5e3b5` | 3764 |
 | `run-authority` | audited runner (build-time tool) | `e22276930fe7da67` | 1039 |
 | `styles.css` | stylesheet | `d7859270a735dc93` | 13214 |
 | `fonts/Arimo-VF.ttf` | brand font file | `e43898b143ec826a` | 496268 |

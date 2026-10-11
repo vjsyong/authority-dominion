@@ -1,6 +1,6 @@
 # Agent brief: build under the Dominion Interface System authority
 
-Authority repo: `authority-dominion` (v0.3.0-rc1, format 0.1). An austere civic interface system derived from the Government of Canada FIP standard and the live Canada.ca web layer for the Design Authority synthesis experiment. Bilingual, structured, calm; no government marks reproduced.
+Authority repo: `authority-dominion` (v0.3.0, format 0.1). An austere civic interface system derived from the Government of Canada FIP standard and the live Canada.ca web layer for the Design Authority synthesis experiment. Bilingual, structured, calm; no government marks reproduced.
 
 Reference build (what "look like this" means for this authority):
   https://designauthority.seanyong.xyz/authorities/dominion/site/
